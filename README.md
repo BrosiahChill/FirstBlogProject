@@ -8,9 +8,7 @@ To run locally download source code and install Node.js.
 
 In the terminal or command prompt, navigate to where you put the source code
 
-Initialize and Install dependencies:
-
-`npm init`
+Install dependencies:
 
 `npm i express body-parser ejs lodash`
 
